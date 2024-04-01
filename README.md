@@ -11,7 +11,10 @@ One of the aspects that truly drew me to web development was its inherently coll
 Web Development | Mobile Development | Database Management | Understanding of SDLC methodologies | Skilled in working within a collaborative team environment
 
 ### Tools
-
-![download](https://github.com/rkdemy/rkdemy/assets/77885140/6efc7fc6-4ed5-4ec6-a910-d38c3500119b)![react](https://github.com/rkdemy/rkdemy/assets/77885140/06fb4086-cafe-4a02-9118-7073ead7a342)
-
-<img src="[https://github.com/rkdemy/rkdemy/assets/77885140/6efc7fc6-4ed5-4ec6-a910-d38c3500119b](https://github.com/rkdemy/rkdemy/assets/77885140/6efc7fc6-4ed5-4ec6-a910-d38c3500119b)![react](https://github.com/rkdemy/rkdemy/assets/77885140/06fb4086-cafe-4a02-9118-7073ead7a342)" alt="Download" width="200" height="150">
+<img src="https://github.com/rkdemy/rkdemy/assets/77885140/6efc7fc6-4ed5-4ec6-a910-d38c3500119b" width="30" height="30">
+<img src="https://github.com/rkdemy/rkdemy/assets/77885140/24a86553-71f1-4d34-916a-af3d036125d4" width="30" height="30">
+<img src="https://github.com/rkdemy/rkdemy/assets/77885140/d8ee9d36-ba5d-4afe-900e-e0bcaf57e075" height="30">
+<img src="https://github.com/rkdemy/rkdemy/assets/77885140/b7467295-da31-4562-a98b-a8177f160025" width="30" height="30">
+<img src="https://github.com/rkdemy/rkdemy/assets/77885140/0634f83e-3d1b-4ffb-99ab-347c91e53dcd" width="30" height="30">
+<img src="https://github.com/rkdemy/rkdemy/assets/77885140/4e714bba-4525-4a12-bf76-1e2a3fe6ea5c" width="30" height="30">
+<img src="https://github.com/rkdemy/rkdemy/assets/77885140/f5d07d72-f7cd-4572-a608-0a8442371365" width="30" height="30">
