@@ -12,4 +12,5 @@ Web Development | Mobile Development | Database Management | Understanding of SD
 
 ### Tools
 
-![JS Logo]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AJavaScript-logo.png&psig=AOvVaw3Yox_FNdCLTDZH78BWLexK&ust=1712093611770000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDo6e37oYUDFQAAAAAdAAAAABAE](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png))
+![download](https://github.com/rkdemy/rkdemy/assets/77885140/6efc7fc6-4ed5-4ec6-a910-d38c3500119b)
+
