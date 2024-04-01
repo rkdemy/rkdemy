@@ -14,4 +14,4 @@ Web Development | Mobile Development | Database Management | Understanding of SD
 
 ![download](https://github.com/rkdemy/rkdemy/assets/77885140/6efc7fc6-4ed5-4ec6-a910-d38c3500119b)![react](https://github.com/rkdemy/rkdemy/assets/77885140/06fb4086-cafe-4a02-9118-7073ead7a342)
 
-
+<img src="[https://github.com/rkdemy/rkdemy/assets/77885140/6efc7fc6-4ed5-4ec6-a910-d38c3500119b](https://github.com/rkdemy/rkdemy/assets/77885140/6efc7fc6-4ed5-4ec6-a910-d38c3500119b)![react](https://github.com/rkdemy/rkdemy/assets/77885140/06fb4086-cafe-4a02-9118-7073ead7a342)" alt="Download" width="200" height="150">
