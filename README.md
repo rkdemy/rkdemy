@@ -12,5 +12,6 @@ Web Development | Mobile Development | Database Management | Understanding of SD
 
 ### Tools
 
-![download](https://github.com/rkdemy/rkdemy/assets/77885140/6efc7fc6-4ed5-4ec6-a910-d38c3500119b)
+![download](https://github.com/rkdemy/rkdemy/assets/77885140/6efc7fc6-4ed5-4ec6-a910-d38c3500119b)![react](https://github.com/rkdemy/rkdemy/assets/77885140/06fb4086-cafe-4a02-9118-7073ead7a342)
+
 
