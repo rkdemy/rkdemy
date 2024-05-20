@@ -8,7 +8,7 @@ After taking a web development unit using ASP.NET and C#, I found myself captiva
 One of the aspects that truly drew me to web development was its inherently collaborative nature. Unlike my experience in ICT, web development thrives on teamwork and interaction. Whether it's brainstorming alternative solutions, pair programming, or supporting each other through code challenges and bugs, I've come to cherish the camaraderie and shared growth that comes from working closely with fellow developers. I experienced this in both my Web development unit and my Professional Experience developing ChaseSpace for a client with a team of 4. These experiences reinforced my interest in the industry.
 
 ### Skills
-Web Development | Mobile Development | Database Management | Understanding of SDLC methodologies | Skilled in working within a collaborative team environment
+Web Development | Mobile Development | Database Management | Understanding of SDLC methodologies | Working within a collaborative team environment
 
 ### Tools
 <img src="https://github.com/rkdemy/rkdemy/assets/77885140/6efc7fc6-4ed5-4ec6-a910-d38c3500119b" width="30" height="30">
